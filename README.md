@@ -62,9 +62,9 @@ Filtered with `http` to inspect HTTP requests/responses
 
 ## 📁 Files Included
 
-- [`capture.pcap`](./wireshark_report.pcap) — The exported packet capture
+- [`wireshark_report.pcap`](./wireshark_report.pcap) — The exported packet capture
 - [`README.md`](./README.md) — Documentation and analysis report
-- `/screenshots/` — Directory containing protocol-specific screenshots
+- [`/screenshots/`](./screenshots) — Directory containing protocol-specific screenshots
 
 ---
 
