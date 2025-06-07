@@ -11,7 +11,7 @@ Capture live network packets and identify basic protocols and traffic types usin
 
 ## 🛠️ Tools Used
 - **Wireshark**
-- **Browser / Ping Command**
+- **Browser**
 - **Operating System**: Kali Linux (or your OS)
 
 ---
@@ -40,7 +40,6 @@ Capture live network packets and identify basic protocols and traffic types usin
 
 ---
 
-## 🖼️ Screenshots
 
 ### 🔹 Full Traffic Overview  
 Captured during browsing `testphp.vulnweb.com` on Mozilla  
